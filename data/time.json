@@ -1,0 +1,1004 @@
+{
+    "samples": [
+        {
+            "hash": "a1ed46df50f5be3a6b3b291189d115bcccb9ea790a90f7c141a6e4169c0a0895",
+            "start_time": 1706176468530,
+            "end_time": 1706176588530,
+            "signature": "GuLoader",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "13144b87810fe4739e4e7078968b49e7ca4b75505195fe5c4925f35d2def22e4",
+            "start_time": 1706177169724,
+            "end_time": 1706177289724,
+            "signature": "RecordBreaker",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "8710679cc4055b4ed025b3be8a9b248a3ca457cf95673b31fcd7865669e49bcf",
+            "start_time": 1706177845647,
+            "end_time": 1706177965647,
+            "signature": "RecordBreaker",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "f9043ef5ec8506f52efd3f8e1f9dc53b8c51cf7a3484e46afb45ae33472fa7b0",
+            "start_time": 1706178554400,
+            "end_time": 1706178674400,
+            "signature": "Nivdort",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "f636d54bf66339ab983cf31e259c8af64bdbb6ef81d8189cb4377557a534ebdf",
+            "start_time": 1706179235925,
+            "end_time": 1706179355925,
+            "signature": "RedLineStealer",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "9886a3be9d53722c29fbb8dca746668425486070e9279dcad1f8db626b62110a",
+            "start_time": 1706179907800,
+            "end_time": 1706180027800,
+            "signature": "RemcosRAT",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "7fb8142113f69c8ad84a242ce0c6f17125baa756a6a43549d466ea26dbed7709",
+            "start_time": 1706180277047,
+            "end_time": 1706180397047,
+            "signature": "Formbook",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "289d85835f3f245866719c64904328c214fd908ada830fb7201a23a54d1607e1",
+            "start_time": 1706180663452,
+            "end_time": 1706180783452,
+            "signature": null,
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "b5ce2b1141fc91ee21782561b83b5b04ead26e000ef1889aef775ce57ad3bd43",
+            "start_time": 1706181051197,
+            "end_time": 1706181171197,
+            "signature": "Formbook",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "29e0aed58b5a22408817954d60de3818a60b56f2e4e4fc6bfa9fc139f1cacda0",
+            "start_time": 1706181338808,
+            "end_time": 1706181458808,
+            "signature": "Stealc",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "523365b77d29365c6ac6df9ff8b270525fe9db7f59d505fcd153e646a036ef34",
+            "start_time": 1706181657563,
+            "end_time": 1706181777563,
+            "signature": "LummaStealer",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "e4a131c301ab482e1f0a6f92ff2fd7851032ffcc2e48c4209921f240c1e5c7c8",
+            "start_time": 1706182152589,
+            "end_time": 1706182272589,
+            "signature": null,
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "4c2e05acad9e625ba60ca90fa7cce6a1b11a147e00f43e0f29225faeff6b54aa",
+            "start_time": 1706182488483,
+            "end_time": 1706182608483,
+            "signature": "Metasploit",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "d34eba367394e5ac033537faf2f11ecc119b639eb183570e6cca04dd3f8d060e",
+            "start_time": 1706182937543,
+            "end_time": 1706183057543,
+            "signature": "Formbook",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "41d875ffc919e005c8d5a3e41e48a4763c232b543f292253912275c13668a0d6",
+            "start_time": 1706183271235,
+            "end_time": 1706183391235,
+            "signature": "Urelas",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "8cf77a7dc3990a9bace47ff27082f1c535375b16eaf2a08209956969c55bb854",
+            "start_time": 1706183645018,
+            "end_time": 1706183765018,
+            "signature": "DarkCloud",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "2d10e08f64f4b4c7fc3cb0087e34723f5db5ff64d319fbfd32afa99b831ee102",
+            "start_time": 1706183940217,
+            "end_time": 1706184060217,
+            "signature": null,
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "021f3de7a37bd3c9e308f08b37a24e8d565b38af0db869fc3b224c363edbe0df",
+            "start_time": 1706184264521,
+            "end_time": 1706184384521,
+            "signature": "RemcosRAT",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "d2ec79dea2c343c76e98d2ff149c7ff39ca97d6bd169619a9db4383e860e3f00",
+            "start_time": 1706184605318,
+            "end_time": 1706184725318,
+            "signature": "Backdoor.TeamViewer",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "3bf1e0c1abce523127ad4b80bbd48d048a5cdf974e8da3ceb480663c29526c2e",
+            "start_time": 1706184926040,
+            "end_time": 1706185046040,
+            "signature": "Smoke Loader",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "b462d28ae1f49b389d1df0213eafc75daf2ce681db989a363348d7f19379c02b",
+            "start_time": 1706204370954,
+            "end_time": 1706204490954,
+            "signature": "Neshta",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "2d532ac3537f2c94740c57c54f046b65952e6af7f2bd7e0af94fb8f830c3fe99",
+            "start_time": 1706204731370,
+            "end_time": 1706204851370,
+            "signature": "MarsStealer",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "88b485b2505fa50a505d0cddb6f7ea10a60d137e008a0e29a04e18efc63a1cd7",
+            "start_time": 1706205146979,
+            "end_time": 1706205266979,
+            "signature": "MarsStealer",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "1d8848fab3c1b40c63ff1f16c15b9bdb07c52851fd73814c3e7a491a81b1dfaa",
+            "start_time": 1706205549466,
+            "end_time": 1706205669466,
+            "signature": "Adware.Neoreklami",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "b9b8b6c74b70933cd9ca77f238cf0834bb88db7e9c87c14919491fd67911507e",
+            "start_time": 1706205924831,
+            "end_time": 1706206044831,
+            "signature": "GuLoader",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "b349b9e4d35a973f5e600555aa79f59fa7b6567c355184ed5e04c8e2ec477399",
+            "start_time": 1706206313035,
+            "end_time": 1706206433035,
+            "signature": "RedLineStealer",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "512ec746b8318aa67bb11aa498a94d0e9848c241e7296c46757dcf1997e28be4",
+            "start_time": 1706206684955,
+            "end_time": 1706206804955,
+            "signature": "Meduza",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "f12ecffd21520fbc12c7537d269532299b2ba86bc9249117c84ff1bc25fe05c3",
+            "start_time": 1706207118567,
+            "end_time": 1706207238567,
+            "signature": "RedLineStealer",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "9d122ec3dee5c91a262a8637c8023bc65cae31c944608dd8170a0586dccebecb",
+            "start_time": 1706207476933,
+            "end_time": 1706207596933,
+            "signature": null,
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "0f1766d523499795e9c3bfcdd08348c4d290be17d628456b1069ee6fed051857",
+            "start_time": 1706207805583,
+            "end_time": 1706207925583,
+            "signature": "AgentTesla",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "21bfe00cf555ca16cef23fc0af6abd2b2f243453c047636b58ba45876c325cd3",
+            "start_time": 1706208124442,
+            "end_time": 1706208244442,
+            "signature": "MarsStealer",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "7c61dd0e9958f47f7588c798e8ff5c43eb5d353d094f07c2ee0e52b213694d2b",
+            "start_time": 1706208462638,
+            "end_time": 1706208582638,
+            "signature": "Formbook",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "d24dbfc796b0b1b56e8a669aaac50a6eb730882738111cd1ba66790d85b4fa7e",
+            "start_time": 1706208759711,
+            "end_time": 1706208879711,
+            "signature": "RedLineStealer",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "ad5097f981c366a853537cc8a7d745da73615e051c523b92f6ca7dcb80ea82b7",
+            "start_time": 1706247976103,
+            "end_time": 1706248096103,
+            "signature": "Formbook",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "55901304816852742b9f3921b33b7c6259dcaf34004d644e3784994af0632741",
+            "start_time": 1706248298293,
+            "end_time": 1706248418293,
+            "signature": "RedLineStealer",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "712f8fe73fc9955808359aa68bb2e898c6661b4cf7de0f0dc27fd668dca17134",
+            "start_time": 1706248655255,
+            "end_time": 1706248775255,
+            "signature": "DarkComet",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "be9bf7c63047d0639a47f0f1bf1e69d8c60a6fa1a5c1948a3ab1b764ae4e31ea",
+            "start_time": 1706248983034,
+            "end_time": 1706249103034,
+            "signature": "Smoke Loader",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "353e4ce2d80b1574912e9bd1a89a204008e327038126a08e812c999aaebaf386",
+            "start_time": 1706249323567,
+            "end_time": 1706249443567,
+            "signature": "AgentTesla",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "713966736ca64ce5e1c91e9b8f9342641bfcda756f0804a32ea8ed251a6fbc79",
+            "start_time": 1706249725843,
+            "end_time": 1706249845843,
+            "signature": "AgentTesla",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "16331f897e1a4f046b8bc4cb030bbf93e2b81d7e03620e6000c84a763d8de45b",
+            "start_time": 1706250097022,
+            "end_time": 1706250217022,
+            "signature": "AgentTesla",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "46714c9ae42535b3a3d0aaa31e73582177a7b5d517584aff2206dd37d2ffa373",
+            "start_time": 1706250401931,
+            "end_time": 1706250521931,
+            "signature": "Formbook",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "86570d92983f1a55ec9e12b7185bf966f5294b13a2d1ab185896145eb52ffb58",
+            "start_time": 1706250735184,
+            "end_time": 1706250855184,
+            "signature": "CoinMiner",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "8f3ed9c86757d9adaf489ce86c6ac422240af48f5c109807b31b3646b67d9757",
+            "start_time": 1706251063017,
+            "end_time": 1706251183017,
+            "signature": "AgentTesla",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "96c10761da8f4399f2104d416e6cfe1fadfed44d33f0948aa1692ba1b13a94e4",
+            "start_time": 1706251477162,
+            "end_time": 1706251597162,
+            "signature": "Stealc",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "d0812b9e320479317bb356c3687ae467d09a8caa4e0aff32bfcbb99f6932a5e4",
+            "start_time": 1706251814704,
+            "end_time": 1706251934704,
+            "signature": "AsyncRAT",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "9fa31f0b376ff15692417c2950eb8bca16391aa9e730e7947c47a9f566c5e025",
+            "start_time": 1706252162287,
+            "end_time": 1706252282287,
+            "signature": "Formbook",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "015d424cca81e6aeb83492f1b50d5a291053ccbc70463de4a4108d95b4751bdf",
+            "start_time": 1706252491638,
+            "end_time": 1706252611638,
+            "signature": "AsyncRAT",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "7feef3cc8cc352d6517afbc1ad65470ab8133993dc521ae0da16bce6d7f4ac5f",
+            "start_time": 1706252857977,
+            "end_time": 1706252977977,
+            "signature": "PureCrypter",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "074b0928569d0bd3f56a9075e9dd562f6b6da76bde6187dc65eddbc4050f2eac",
+            "start_time": 1706253164969,
+            "end_time": 1706253284969,
+            "signature": "AgentTesla",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "231ae4c87c3c2766bb7643dfd88e482f019467a6fda13feb5656a8d0d4fd746a",
+            "start_time": 1706253485015,
+            "end_time": 1706253605015,
+            "signature": "Stealc",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "0762b2ba2bf925463ea8662e76030861754ab4d1c7aff8c1005d246921b35db1",
+            "start_time": 1706254488820,
+            "end_time": 1706254608820,
+            "signature": "LummaStealer",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "c1bd141a8c2a27b5c7318229556282a4259a9caba1b3768ec58a83dc2d7afdca",
+            "start_time": 1706255190839,
+            "end_time": 1706255310839,
+            "signature": "zgRAT",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "d8b1deaf8eea26368ac53d865e0f236bd3e5f0e89a44dcc85f01820c7d90539e",
+            "start_time": 1706255522998,
+            "end_time": 1706255642998,
+            "signature": "RedLineStealer",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "4fdee688f5f3116bf13d8e370d7c2549c92ba6acadf3510f2e464affbb0f46de",
+            "start_time": 1706255883627,
+            "end_time": 1706256003627,
+            "signature": "RedLineStealer",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "1f74859b736272094387b627cdb0f29842b985703c2ed8cba74a7c9c729623c2",
+            "start_time": 1706256228614,
+            "end_time": 1706256348614,
+            "signature": "RedLineStealer",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "50a2e6d2c38a635def109be99dc5959ebb53db96b9f42c053b0bd3a253b1fa47",
+            "start_time": 1706261039609,
+            "end_time": 1706261159609,
+            "signature": "GuLoader",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "bd4e2dd3ffc3977b2ca8f818c2e51c421a1f4772b4fe11a1aa8448dc50fddab2",
+            "start_time": 1706261465413,
+            "end_time": 1706261585413,
+            "signature": "LummaStealer",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "fb76e73fed73ca66b08cb896742694bd8a530c62202e39d9008136d081121549",
+            "start_time": 1706261781107,
+            "end_time": 1706261901107,
+            "signature": null,
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "439da9f0ad845eeafead327d4fea93b73d008671fb563d42ecd2459f83669800",
+            "start_time": 1706262121385,
+            "end_time": 1706262241385,
+            "signature": "GuLoader",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "b1ca8bbed94ba2690e722c88c1af75082b8a4abf9d7f70206f986746aaa0eae2",
+            "start_time": 1706262434839,
+            "end_time": 1706262554839,
+            "signature": "RemcosRAT",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "9e8efe576bee6d88098dde6861431893c77060b4ca51b233f11cf57b9a0d2695",
+            "start_time": 1706263442823,
+            "end_time": 1706263562823,
+            "signature": "GuLoader",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "d3d18f34a1494d87502f0ea05c56f6194e50610bc71f53653e15c98d25e57e62",
+            "start_time": 1706263737360,
+            "end_time": 1706263857360,
+            "signature": "RedLineStealer",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "50a240dd81f289babfee552b103ca3a5cb94eda0db53ec8c5ccc6afa0970b298",
+            "start_time": 1706264089968,
+            "end_time": 1706264209968,
+            "signature": "GuLoader",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "9bc478175b70e409b23c70a1d891955cbb2b360a14473d6711e5d7a7a890f2a0",
+            "start_time": 1706264421121,
+            "end_time": 1706264541121,
+            "signature": "Formbook",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "a5667f5a28c5e362c0b3a57b38f8d282a89730a7159fb8bdc81fa49ae9a11ac1",
+            "start_time": 1706264711181,
+            "end_time": 1706264831181,
+            "signature": "RemcosRAT",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "e41e19b9ee8889b3887b8cacf264468c661bdf382706bbd9052c1f95c4eea504",
+            "start_time": 1706265002597,
+            "end_time": 1706265122597,
+            "signature": null,
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "abc504150c3ff15e2df61c72059fb4c39a720983983029fa5da6ae384a009b78",
+            "start_time": 1706266531941,
+            "end_time": 1706266651941,
+            "signature": "AgentTesla",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "746b5874dbdfcd6168d395a2da5cd43dabadad8ec4a38c1c87d8c3779d41f5f7",
+            "start_time": 1706266829476,
+            "end_time": 1706266949476,
+            "signature": "Glupteba",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "73ebdb87fc583af4874c5239df89bcdf8fb3b81816c3e88e7a5036a777a33101",
+            "start_time": 1706267205359,
+            "end_time": 1706267325359,
+            "signature": "AgentTesla",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "93be4f14d79c66f35b32d4c27e86f554d85f0f44dadad705f07420ef382a3395",
+            "start_time": 1706267518481,
+            "end_time": 1706267638481,
+            "signature": "AgentTesla",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "760b245f37fd6768a1a419ddb2783b2778d1ac4503ecf06c9eb9edf94faf8fd5",
+            "start_time": 1706267824144,
+            "end_time": 1706267944144,
+            "signature": "GuLoader",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "a8744836e086dc71ec8ce295a9ec4d18bb36aad5354559e534be70041d7e9e35",
+            "start_time": 1706268108358,
+            "end_time": 1706268228358,
+            "signature": "Formbook",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "f898739de66ac29c765370098fdd0e9b88c7dc7033340be03900453485e0cdae",
+            "start_time": 1706268430925,
+            "end_time": 1706268550925,
+            "signature": "AgentTesla",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "b5cfcdc1bbd12c5d8417b4be1890e98c4181b7fb0dcd9b269524b019a5d66df1",
+            "start_time": 1706269143235,
+            "end_time": 1706269263235,
+            "signature": null,
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "825025c1f8e21a4bc56ed6366742ba9b8434358baa68c9d3af73736a9ef3b520",
+            "start_time": 1706270576587,
+            "end_time": 1706270696587,
+            "signature": "AsyncRAT",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "fd42939bc4a3ce75acdddff792d7bf942c3dda354cef4563c9155832494bd4e5",
+            "start_time": 1706270912567,
+            "end_time": 1706271032567,
+            "signature": "Formbook",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "c6297163c801b8dca8c73e5104bf7afe955c7549370bdd111db5bf67329cb90a",
+            "start_time": 1706271241727,
+            "end_time": 1706271361727,
+            "signature": "RedLineStealer",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "3aac0e796c8f78332768844a386142c33cfd1ab2168774898c4f28615ea6598e",
+            "start_time": 1706271581864,
+            "end_time": 1706271701864,
+            "signature": "GuLoader",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "145c1ede38b85b82e5072f2d9c0c65aa8eb479bd2cf90d99d7d375c0c2e7c4ea",
+            "start_time": 1706271965836,
+            "end_time": 1706272085836,
+            "signature": "XWorm",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "df7b8146ab6c143a778317adb9b5d2b81f062cfcba0634ca9554d2ff60cc458f",
+            "start_time": 1706272294349,
+            "end_time": 1706272414349,
+            "signature": "AveMariaRAT",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "cb17971c69696d81a364f55879b02caae2bd0135d0d1d6bfba48868f7a2f1d30",
+            "start_time": 1706275684161,
+            "end_time": 1706275804161,
+            "signature": "Amadey",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "facf82cbd92c630b669aee9f598410271e1f6922a6900e8de660901826701c1f",
+            "start_time": 1706275997687,
+            "end_time": 1706276117687,
+            "signature": "AgentTesla",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "eb7f37ab64c9ba8ad40f4d6dda86f0e51a757f2f429cfae77d5b31725ba1085e",
+            "start_time": 1706276287329,
+            "end_time": 1706276407329,
+            "signature": null,
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "6289ccd8121caf8808c91f229e70b4275af6452ef74f507e9919e09c38b02e44",
+            "start_time": 1706276609393,
+            "end_time": 1706276729393,
+            "signature": "AgentTesla",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "3854cd33e108ddb1a962d791ac6098619bd7047a9c297f11fb96653a45aa3897",
+            "start_time": 1706276953945,
+            "end_time": 1706277073945,
+            "signature": "AgentTesla",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "d5090fe98db8baf1f62c6a8d85499883ff121afd909d6f7861c76529bd8c86c4",
+            "start_time": 1706277283743,
+            "end_time": 1706277403743,
+            "signature": "zgRAT",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "868949e035a0ccb527298deb07464e710b95ed7cd22e3cd2f4437554df420a21",
+            "start_time": 1706277609739,
+            "end_time": 1706277729739,
+            "signature": "Heodo",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "1a43ce284eeb6c62750e67cfd710109ea3461e0fdb4e3ef6df64b159e78f8fd2",
+            "start_time": 1706277949456,
+            "end_time": 1706278069456,
+            "signature": "SnakeKeylogger",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "8772b4c9a9acd1587e2f238db5489d0c7df58dc2563f0f4e04e30a0026289de0",
+            "start_time": 1706278231232,
+            "end_time": 1706278351232,
+            "signature": "AgentTesla",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "900d518389fffe99ee1fd546a9af47aeb109b0d8500139fdb3155d6916afd810",
+            "start_time": 1706278536383,
+            "end_time": 1706278656383,
+            "signature": "Formbook",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "8d96f63485f595f40c4dd5da445740e0a6d053b0715373381429ed9291e8b886",
+            "start_time": 1706279841468,
+            "end_time": 1706279961468,
+            "signature": null,
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "611736ddb98d5e8561be8977e92737e3833203a8a2e9428436b003d20bc09b01",
+            "start_time": 1706280162728,
+            "end_time": 1706280282728,
+            "signature": "AgentTesla",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "3c5720111b5562bdbcef0ac01a7d4fcf47ad75af43f84220129c0a1abb5e65f4",
+            "start_time": 1706280481437,
+            "end_time": 1706280601437,
+            "signature": "AgentTesla",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "fc0648345e4be061ff4ec08d72c7210afa00a8ff3c490dd0e4f023474e87bef9",
+            "start_time": 1706280809751,
+            "end_time": 1706280929751,
+            "signature": "Stealc",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "75ab3aadac14e25230ba73e55f3e15ad45fceaeed42d3b66a100acdc087e6381",
+            "start_time": 1706281097617,
+            "end_time": 1706281217617,
+            "signature": "RedLineStealer",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "ee9cebf9aaeb69e2f70c588c551a85dbdb9c697aadef1400df6d17c8ce0a694f",
+            "start_time": 1706281437818,
+            "end_time": 1706281557818,
+            "signature": "RedLineStealer",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "d509087303bb0f0d4710410f437844928d43b21bf0d868198a7a8e7559018ae5",
+            "start_time": 1706281798102,
+            "end_time": 1706281918102,
+            "signature": "Formbook",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "c13ea062e1f95644caadecc45351ed4b7d9cf18452e25f06aa3dc83262be8036",
+            "start_time": 1706282229667,
+            "end_time": 1706282349667,
+            "signature": "PureCrypter",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "7b9e3a1daae553787702cc7245c8aa6d569cbf97a054e6e7a1248c071eb9d7d4",
+            "start_time": 1706282534149,
+            "end_time": 1706282654149,
+            "signature": "Stealc",
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        },
+        {
+            "hash": "f93faf0aef75fd22d3d5358389b6c2857b9129ba009478596e7bb214e0549f5d",
+            "start_time": 1706282818986,
+            "end_time": 1706282938986,
+            "signature": null,
+            "e_events_total": 0,
+            "s_events_total": 0,
+            "i_events_total": 0,
+            "rules": []
+        }
+    ]
+}
