@@ -38,4 +38,6 @@ following artifacts:
 In the **evaluation/** folder of this repository, you'll find the procedure
 detailing how the collected data has been evaluated. This section contains all
 necessary algorithms used to extract insights from the data and generate
-statistical graphics for analysis.
+statistical graphics for analysis. Important to note, GitHub can not highlight
+row colors, therefore the Markdown file needs to be downloaded and opened in
+another markdown viewer. An HTML file is additionally provided to view the colors.
