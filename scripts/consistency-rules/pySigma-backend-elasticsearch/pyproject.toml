@@ -1,0 +1,38 @@
+[tool.poetry]
+name = "pySigma-backend-elasticsearch"
+version = "1.0.8"
+description = "pySigma Elasticsearch backend"
+readme = "README.md"
+authors = ["Thomas Patzke <thomas@patzke.org>", "Hendrik Baecker <hb@process-zero.de>"]
+license = "LGPL-3.0-only"
+repository = "https://github.com/SigmaHQ/pySigma-backend-elasticsearch"
+packages = [
+    { include = "sigma" }
+]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pysigma = "^0.10.2"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.3.0"
+pytest-cov = "^4.0.0"
+coverage = "^6.4.1"
+requests = "^2.28.1"
+autopep8 = "^2.0.2"
+pylint = "^2.17.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.pylint.'MESSAGES CONTROL']
+disable = "missing-function-docstring,missing-module-docstring,line-too-long,too-many-lines"
+
+[tool.pytest.ini_options]
+minversion = "6.0"
+python_files = "test_*.py"
+addopts = "-vv --cov=sigma --cov-report term --cov-report xml:cov.xml"
+testpaths = [
+    "tests",
+]

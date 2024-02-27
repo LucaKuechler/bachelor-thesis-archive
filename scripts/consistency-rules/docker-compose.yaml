@@ -1,0 +1,9 @@
+version: '3'
+services:
+  sigma-custom-converter-cli:
+    build:
+      context: .
+    volumes:
+      - /tmp/sigma/rules/windows/process_creation/:/rules:ro
+      #- /tmp/test-rules/:/rules:ro
+      - ./output/:/app/output/

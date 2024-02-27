@@ -1,0 +1,12 @@
+name: elastic_pipeline
+priority: 100
+# transformations:
+#     - id: ecs_windows_field_mapping_1
+#       type: field_name_mapping 
+#       mapping:
+#         Image: process.executable
+#
+#     - id: ecs_windows_field_mapping_2
+#       type: field_name_mapping 
+#       mapping:
+#         CommandLine: process.command_line
